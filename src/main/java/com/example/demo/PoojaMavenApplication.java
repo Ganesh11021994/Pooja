@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class PoojaMavenApplication {
-//syso
+//trial
 	public static void main(String[] args) {
 		SpringApplication.run(PoojaMavenApplication.class, args);
 	}
